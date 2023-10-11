@@ -19,15 +19,12 @@ To convert an ir file to ir_remote format do:
 ```
 convert.py filename.ir
 ```
+To extract all syntax infront of name: in all ir files found within the same folder.
+```
+Extractorz.py
+```
 ## Contributing
 Please star the project if you found it helpful or come play some minecraft with me :D discordlink
 ## License
 
 I forgot
-
-
-
-
-
-
-#Extractorz.py extracts all syntax infront of name: in all ir files found within the same folder.
