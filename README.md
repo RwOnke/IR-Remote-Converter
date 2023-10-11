@@ -13,20 +13,17 @@ Takes IR files of flipper zero and converts them to Hong5489's ir_remote app for
 ```
 git clone https://github.com/RwOnke/IR-Remote-Converter
 cd IR-Remote-Converter
-convert.py filename.ir
-
 ````
 ## Usage
-
-Explain how to use your project.
-
+To convert an ir file to ir_remote format do:
+```
+convert.py filename.ir
+```
 ## Contributing
-
-Tell others how they can contribute to your project.
-
+Please star the project if you found it helpful or come play some minecraft with me :D discordlink
 ## License
 
-This project is licensed under the XYZ License - see the [LICENSE](LICENSE) file for details.
+I forgot
 
 
 
