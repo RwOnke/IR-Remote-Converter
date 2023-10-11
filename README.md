@@ -4,16 +4,14 @@ Takes IR files of flipper zero and converts them to Hong5489's ir_remote app for
 
 ## Table of Contents
 - [Installation](#installation)
-git clone https://github.com/RwOnke/IR-Remote-Converter
-cd IR-Remote-Converter
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
 
-Describe how to install your project or any dependencies it may have.
-
+git clone https://github.com/RwOnke/IR-Remote-Converter
+cd IR-Remote-Converter
 ## Usage
 
 Explain how to use your project.
